@@ -1,2 +1,2 @@
 # store-of-cloth
-<img src="logo-tiny.png" alt="My cool logo"/>
+<img src="img/logo-tiny.png" alt="My cool logo"/>
